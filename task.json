@@ -1,0 +1,20 @@
+[
+  {
+    "id": 87897545,
+    "title": "Buy groceries",
+    "description": "Milk, Bread,cheese",
+    "completed": false
+  },
+  {
+    "id": 1732172301830,
+    "title": "Walk the dog",
+    "description": "Take the dog for a 30-minute walk .",
+    "completed": false
+  },
+  {
+    "id": 1732172336783,
+    "title": "Do laundry",
+    "description": "Wash clothes and fold them.",
+    "completed": true
+  }
+]
